@@ -27,7 +27,7 @@
 
 
 ### TODO
-- Melhorar estilização do app
+- Melhorar estilização do app.
 
 ## Author
 Taís Porto Eleutério (follow me on [Linkedin](https://www.linkedin.com/in/taisporto/))
