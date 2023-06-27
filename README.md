@@ -3,7 +3,7 @@
 ** Retomando meus estudos agora com um novo projeto calculadora modelo simples***
 
 
-<img src="/res/result/Screenshot_20230626_233704.png" width="180">&emsp;<img src="/result/Screenshot_20230626_233724.png" width="180">&emsp;<img src="/result/Screenshot_20230626_233735.png" width="180">
+<img src="/res/resultado/Screenshot_20230626_233704.png" width="180">&emsp;<img src="/resultado/Screenshot_20230626_233724.png" width="180">&emsp;<img src="/resultado/Screenshot_20230626_233735.png" width="180">
 
 
 
