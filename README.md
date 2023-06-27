@@ -4,7 +4,9 @@
 
 
 <img src="/res/resultado/Screenshot_20230626_233704.png" width="180">&emsp;<img src="/resultado/Screenshot_20230626_233724.png" width="180">&emsp;<img src="/result/Screenshot_20230626_233735.png" width="180">
-<img src="/res>
+
+
+
 ## Tecnologias
 * Kotlin
 * Activity para host de telas
